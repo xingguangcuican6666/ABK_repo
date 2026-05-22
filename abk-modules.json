@@ -19,22 +19,6 @@
       "homepage": "https://github.com/xingguangcuican6666/ABK_control_module"
     },
     {
-      "name": "ABK Meta Mount",
-      "version": "0.1.0",
-      "description": "Built-in KernelSU-compatible metamodule provider for systemless read-only partition overlays.",
-      "repoUrl": "https://github.com/xingguangcuican6666/ABK_Meta_Mount",
-      "defaultStage": "before_build",
-      "supportedStages": [
-        "before_build",
-        "after_patch"
-      ],
-      "recommendedStages": [
-        "before_build"
-      ],
-      "author": "xingguangcuican6666",
-      "homepage": "https://github.com/xingguangcuican6666/ABK_Meta_Mount"
-    },
-    {
       "name": "ABK Dirty SELinux Guard",
       "version": "0.2.0",
       "description": "Patch and audit dirty SELinux policy grants after ABK source patching.",
