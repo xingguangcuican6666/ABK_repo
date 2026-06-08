@@ -19,7 +19,7 @@
       "homepage": "https://github.com/xingguangcuican6666/ABK_control_module"
     },
     {
-      "name": "ABK Dirty SELinux Guard",
+      "name": "[Deprecated] ABK Dirty SELinux Guard",
       "version": "0.2.0",
       "description": "Patch and audit dirty SELinux policy grants after ABK source patching.",
       "repoUrl": "https://github.com/xingguangcuican6666/ABK_NO_ANYTHING_CAN_CHECK",
@@ -34,6 +34,23 @@
       ],
       "author": "xingguangcuican6666",
       "homepage": "https://github.com/xingguangcuican6666/ABK_NO_ANYTHING_CAN_CHECK"
+    },
+    {
+      "name": "ABK FIDO Key",
+      "version": "0.1.0",
+      "description": "Kernel-integrated FIDO2 Security Key gadget for ABK builds.",
+      "repoUrl": "https://github.com/xingguangcuican6666/ABK_FIDO_KEY_MODULE",
+      "defaultStage": "after_patch",
+      "supportedStages": [
+        "after_patch",
+        "before_build"
+      ],
+      "recommendedStages": [
+        "after_patch",
+        "before_build"
+      ],
+      "author": "xingguangcuican6666",
+      "homepage": "https://github.com/xingguangcuican6666/ABK_FIDO_KEY_MODULE"
     }
   ]
 }
