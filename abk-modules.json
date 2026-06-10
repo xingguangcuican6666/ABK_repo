@@ -54,25 +54,6 @@
       ],
       "author": "xingguangcuican6666",
       "homepage": "https://github.com/xingguangcuican6666/ABK_FIDO_KEY_MODULE"
-    },
-    {
-      "name": "ABK F2FS / Storage Fix Suite",
-      "version": "0.1.0",
-      "description": "Module-set entry for the post-FIDO storage patch bundle: F2FS perf, F2FS low-depth, UFS PM, and dm-default-key flush-path fixes.",
-      "kind": "module_set",
-      "moduleSetId": "abk_storage_fix_suite",
-      "repoUrl": "https://github.com/xingguangcuican6666/ABK_F2FS_FIX_MODULE",
-      "defaultStage": "after_patch",
-      "supportedStages": [
-        "after_patch",
-        "before_build"
-      ],
-      "recommendedStages": [
-        "after_patch",
-        "before_build"
-      ],
-      "author": "xingguangcuican6666",
-      "homepage": "https://github.com/xingguangcuican6666/ABK_F2FS_FIX_MODULE"
     }
   ]
 }
