@@ -57,8 +57,8 @@
     },
     {
       "name": "ABK F2FS / Storage Rollback Suite",
-      "version": "0.2.0",
-      "description": "Module-set entry for the verified Android 14 / Linux 6.1 storage rollback bundle: UFS rollback, block rollback, F2FS rollback, and common compatibility fixups.",
+      "version": "0.3.1",
+      "description": "Module-set entry for the pre-generated Android 14 / Linux 6.1 storage rollback bundle covering the supported 93..162 range: UFS rollback, block rollback, F2FS rollback, and common compatibility fixups.",
       "kind": "module_set",
       "moduleSetId": "abk_f2fs_storage_rollback_suite",
       "repoUrl": "https://github.com/xingguangcuican6666/ABK_F2FS_FIX_MODULE",
