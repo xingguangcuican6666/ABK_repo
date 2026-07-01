@@ -84,7 +84,7 @@
       "homepage": "https://github.com/xingguangcuican6666/ABK_F2FS_FIX_MODULE"
     },
     {
-      "name": "ABK Sched Power Module",
+      "name": "ABK Sched Power Module [Testing]",
       "version": "0.2.0",
       "description": "Compile-time scheduler power module with ABK companion extension support for first-boot OOBE and per-app policy editing.",
       "kind": "module",
@@ -103,7 +103,7 @@
       "homepage": "https://github.com/xingguangcuican6666/ABK_SCHED_POWER_MODULE"
     },
     {
-      "name": "ABKCG Parallel Layer Module",
+      "name": "ABKCG Parallel Layer Module [Testing]",
       "version": "0.3.0",
       "description": "Provide ABK shadow pids/devices state, fix abkcg2fs mkdir/control-file behavior, and expose a minimal SELinux test policy patch interface.",
       "kind": "module",
@@ -121,7 +121,7 @@
       "homepage": "https://github.com/xingguangcuican6666/abkcg-module-aosp61"
     },
     {
-      "name": "ABK Linux 7.0.12 bump for Android 14 / Linux 6.1",
+      "name": "ABK Linux 7.0.12 bump for Android 14 / Linux 6.1 [Testing]",
       "version": "0.1.0",
       "description": "Module-set entry for the pre-generated Android 14 / Linux 6.1 Bump to feat of Linux 7.0.12.",
       "kind": "module_set",
