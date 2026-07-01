@@ -103,6 +103,24 @@
       "homepage": "https://github.com/xingguangcuican6666/ABK_SCHED_POWER_MODULE"
     },
     {
+      "name": "ABKCG Parallel Layer Module",
+      "version": "0.3.0",
+      "description": "Provide ABK shadow pids/devices state, fix abkcg2fs mkdir/control-file behavior, and expose a minimal SELinux test policy patch interface.",
+      "kind": "module",
+      "repoUrl": "https://github.com/xingguangcuican6666/abkcg-module-aosp61",
+      "defaultStage": "after_patch",
+      "supportedStages": [
+        "after_patch",
+        "before_build"
+      ],
+      "recommendedStages": [
+        "after_patch",
+        "before_build"
+      ],
+      "author": "xingguangcuican6666",
+      "homepage": "https://github.com/xingguangcuican6666/abkcg-module-aosp61"
+    },
+    {
       "name": "ABK Linux 7.0.12 bump for Android 14 / Linux 6.1",
       "version": "0.1.0",
       "description": "Module-set entry for the pre-generated Android 14 / Linux 6.1 Bump to feat of Linux 7.0.12.",
